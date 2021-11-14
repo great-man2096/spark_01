@@ -1,0 +1,7 @@
+# Project exclude paths
+/data-mock/target/
+/spark-core/target/
+/spark-core-project/target/
+/spark-sql/target/
+/spark-stream/target/
+/spark-streaming-project/target/
